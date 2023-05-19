@@ -1,7 +1,6 @@
 import React from 'react';
 import './style.css';
 
-import React from 'react';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import RootLayout from './pages/RootLayout';
 import Albums from './pages/Albums';
