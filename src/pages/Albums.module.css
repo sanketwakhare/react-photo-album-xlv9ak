@@ -1,0 +1,24 @@
+.albums-container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  row-gap: 10px;
+  column-gap: 10px;
+}
+
+.album {
+  background-color: rgb(255, 187, 0);
+  padding: 5px;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.album a {
+  color: black;
+}

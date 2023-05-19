@@ -1,0 +1,23 @@
+header {
+  margin-bottom: 30px;
+  background-color: #352f26;
+  padding: 10px;
+}
+
+header nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+header nav li {
+  list-style-type: none;
+}
+
+header nav li a {
+  color: orange;
+}
+
+main {
+  margin: 1rem;
+}
